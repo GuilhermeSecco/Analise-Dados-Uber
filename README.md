@@ -35,7 +35,7 @@ Os resultados foram consolidados em um dashboard no Power BI, incluindo:
 Exemplo de visualização:
 
 <p align="center">
-  <img width="982" height="551" alt="image" src="https://github.com/user-attachments/assets/cdb2ee47-1df9-4cb7-bd46-e72c6a869bf9" />
+  <img width="1654" height="928" alt="image" src="https://github.com/user-attachments/assets/82f95295-d63b-4ef3-8fe0-10826b9f0d99" />
 </p>
 
 ---
