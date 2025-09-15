@@ -32,10 +32,7 @@ Os resultados foram consolidados e separados em um dashboard no Power BI por mei
 
 Exemplo de visualização:
 
-<p align="center">
-  ![Dashboard](https://github.com/user-attachments/assets/9c964257-d704-4306-8c0e-20d6e4deb7ad)
-</p>
-
+  ![Dashboard](Dashboard.gif)
 ---
 
 ## ⚙️ Tecnologias Utilizadas
