@@ -7,7 +7,7 @@ e consolidar os insights em um **dashboard interativo no Power BI**.
 ---
 
 ## 🔍 Perguntas respondidas com SQL
-Algumas das principais análises realizadas:
+Principais perguntas respondidas:
 
 1. Qual são os dias com o maior volume de corridas?<br>
     Resposta: **Segunda, Quarta e Sábado**.
