@@ -22,13 +22,11 @@ Algumas das principais análises realizadas:
 ---
 
 ## 📊 Dashboard em Power BI
-Os resultados foram consolidados em um dashboard no Power BI, incluindo:
-
-- Faturamento por Mês 
-- Cancelamento por Mês  
-- Corridas por Mês  
-- Distribuição das corridas por hora  
-- Seleção por Tipo de Veículo, Data da Corrida e Motivo de Cancelamento  
+Os resultados foram consolidados e separados em um dashboard no Power BI por meio de diferentes categorias acessadas pelo uso de um menu seletor que inclui as seções:
+- Geral
+- Veículos
+- Corridas
+- Cancelamentos
 
 📄 Veja o dashboard completo em [`Dashboard.pdf`](Dashboard.pdf).
 
@@ -49,9 +47,10 @@ Exemplo de visualização:
 ---
 
 ## 💡 Principais Insights
-- A maior concentração de corridas ocorre nos horários de pico entre as 17 e 19 horas.  
-- Os veículos que obtiveram mais corridas foram os automáticos e os que obtiveram menos foram os Uber XL.  
-- As corridas com as maiores distâncias se concentram nos meses de junho e julho, possivelmente relacionado a férias.  
-- Curiosamente os meses que antecedem e sucedem as férias possuem uma maior taxa de cancelamento.  
+- Os dias com o maior número de corridas são Segunda, Quarta e Sábado.
+- A maior concentração de corridas ocorre nos horários entre 17 e 19 horas.  
+- Os veículos que obtiveram mais corridas foram os automáticos e os que obtiveram menos foram os Uber XL.
+- As corridas com as maiores distâncias se concentram nos meses de junho e julho, possivelmente relacionado a férias.
+- Os meses de Janeiro, Maio e Julho possuem uma maior taxa de cancelamento.  
 
 ---
